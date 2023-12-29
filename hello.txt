@@ -2,4 +2,8 @@ hello bodde
 
 woooow
 
+<<<<<<< HEAD
 No I can't
+
+all good?
+>>>>>>> feature
